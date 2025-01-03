@@ -43,7 +43,7 @@ Below is a breakdown of the core technologies used in this project:
 
 - Evaluated multiple algorithms: Logistic Regression, SVM, Random Forest, Isolation Forest, Local Outlier Factor, and K-means.
 
-- Assessed performance using metrics like Accuracy, Precision, Recall, and F! Score.
+- Assessed performance using metrics like Accuracy, Precision, Recall, and F1 Score.
 
 ---
 
