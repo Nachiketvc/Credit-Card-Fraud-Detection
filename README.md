@@ -4,7 +4,8 @@
 1. [Problem Statement](#problem-statement)
 2. [Technologies Packages & Libraries Used](#technologies-packages--libraries-used)
 3. [Approach](#approach)
-4. [Results and Conclusion](#results-and-conclusion)
+4. [Comparison of Algorithms](#Comparison-of-Algorithms)
+5. [Results and Conclusion](#results-and-conclusion)
 
 
 ---
@@ -43,6 +44,19 @@ Below is a breakdown of the core technologies used in this project:
 - Evaluated multiple algorithms: Logistic Regression, SVM, Random Forest, Isolation Forest, Local Outlier Factor, and K-means.
 
 - Assessed performance using metrics like Accuracy, Precision, Recall, and F! Score.
+
+---
+
+## Comparison of Algorithms
+
+| Model                 | F1 Score | Accuracy | Recall | Precision |
+|-----------------------|----------|----------|--------|-----------|
+| Logistic Regression    | 0.9326   | 0.9703   | 0.909  | 0.9574    |
+| SVM                   | 0.9479   | 0.9849   | 0.9191 | 0.9785    |
+| Random Forest         | 0.9435   | 0.9715   | 0.9293 | 0.9583    |
+| Isolation Forest      | 0.67     | 0.9977   | 0.67   | 0.67      |
+| Local Outlier Factor  | 0.25     | 0.9967   | 0.25   | 0.25      |
+| K-means               | 0.926    | 0.9982   | 0.879  | 0.9798    |
 
 ---
 
