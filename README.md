@@ -18,7 +18,7 @@
 
 ---
 
-## Technologies Packages $ Libraries Used
+## Technologies Packages & Libraries Used
 Below is a breakdown of the core technologies used in this project:
 
 
